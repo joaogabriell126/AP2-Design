@@ -500,8 +500,8 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/banner_bg.jpg") no-repeat scroll center 0/cover;
-  opacity: 0.50;
+  background: url("../image/expedicao-alfa-montanha.jpg") no-repeat scroll center 0/cover;
+  opacity: 0.70;
 }
 
 .banner_area .position {
@@ -673,7 +673,7 @@ button:focus {
 }
 
 .breadcrumb_area .bg-parallax {
-  background: url("../image/about_banner.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/montanha-everest-viagem.jpg") no-repeat scroll center 0/cover;
   opacity: 0.50;
   z-index: -1;
 }
@@ -829,7 +829,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/facilites_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/amigos-trilha-expedicao.jpg") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
@@ -3602,3 +3602,17 @@ h1, h2, h3, h4, h5, h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+.dale{
+  background: url("../image/expedicao-alfa-russia.jpg") no-repeat scroll center 0/cover;
+  opacity: 0.3;
+}
+
+.dale1{
+  background: url("../image/noruega-fiordes.jpg") no-repeat scroll center 0/cover;
+  opacity: 0.3;
+}
+
+.dale2{
+  background: url("../image/banner/exploracao-alfa-blog.jpg") no-repeat scroll center 0/cover;
+  opacity: 0.3;
+}
