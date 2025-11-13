@@ -786,9 +786,8 @@ button:focus {
 }
 
 .accomodation_item .hotel_img:hover img {
-  -webkit-transform: scale(1.19);
-  -ms-transform: scale(1.19);
-  transform: scale(1.19);
+  cursor: pointer;
+  transform: scale(1.02);
 }
 
 .accomodation_item h5 {
